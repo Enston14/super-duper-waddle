@@ -7,12 +7,24 @@ LICENSE:[MIT](license.md)
 ![git-logo](./assets/Git-logo.svg.png)
 
 ---
+***Git*** - система контроля версий для отслеживания изменений в коде.
+
 
 ### Содержание:
 
-1.Что такое GIT?
+1.[История GIT](Stori.md)
 
-2.Git 
+2.[Основы работы с Git](basics.md)
+
+3.[Важные команды](commands.md)
+
+4.[Работу с ветками](branches.md)
+
+5.[Удаленные репозитории](remote.md)
+
+6.[Работа в команде](teamwork.md)
+
+7.[Практика](practice.md)
 
 
 
